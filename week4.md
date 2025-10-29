@@ -13,10 +13,10 @@ Aşağıda verilen her görev için .py uzantılı farklı dosya oluşturulacak.
 Organizasyon adını girin: Türk Hava Yolları​
 Kısaltma: THY​
 7) Şifre Denetleyici Programı yaz:​
-En az 8 karakter olmalı​
-En az 1 büyük harf, 1 küçük harf ve 1 rakam içermeli​
-Boşluk içermemeli​
-Tüm şartlar sağlanıyorsa “Güçlü Şifre ”, değilse “Zayıf Şifre ” yaz.​
-Kullanılabilecek metotlar:​ .isupper(), .islower(), .isdigit(), .isspace(), any()​
+- En az 8 karakter olmalı​
+- En az 1 büyük harf, 1 küçük harf ve 1 rakam içermeli​
+- Boşluk içermemeli​
+- Tüm şartlar sağlanıyorsa “Güçlü Şifre ”, değilse “Zayıf Şifre ” yaz.​
+- Kullanılabilecek metotlar:​ .isupper(), .islower(), .isdigit(), .isspace(), any()​
 
 
