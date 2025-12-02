@@ -23,8 +23,8 @@
         - 'kare' -> elemanların karesini alır
        """
 
-   print(liste_islemleri([1, 2, 3, 4, 5], 'tek') # [1, 3, 5]
-   print(liste_islemleri([1, 2, 3, 4, 5], 'kare') # [1, 4, 9, 16, 25]
+   print(liste_islemleri([1, 2, 3, 4, 5], 'tek')) # [1, 3, 5]
+   print(liste_islemleri([1, 2, 3, 4, 5], 'kare')) # [1, 4, 9, 16, 25]
    ```
 
 5) Aşağıda belirtilen nitelikte şifre oluşturma fonksiyonu yazınız.
@@ -38,6 +38,6 @@
         - En az 1 rakam içermesini kontrol eder
        """
 
-   print(sifre_dogrulama("Python123") # True
-   print(sifre_dogrulama("python") # False
+   print(sifre_dogrulama("Python123")) # True
+   print(sifre_dogrulama("python")) # False
   ```
